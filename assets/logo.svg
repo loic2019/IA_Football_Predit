@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 48" width="220" height="48">
+  <defs>
+    <linearGradient id="cb-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#33c7ff"/>
+      <stop offset="100%" stop-color="#2ecc87"/>
+    </linearGradient>
+  </defs>
+  <circle cx="24" cy="24" r="20" fill="none" stroke="url(#cb-grad)" stroke-width="3"/>
+  <path d="M24 8 L30 18 L24 24 L18 18 Z" fill="url(#cb-grad)"/>
+  <path d="M24 40 L18 30 L24 24 L30 30 Z" fill="url(#cb-grad)" opacity="0.7"/>
+  <path d="M8 24 L18 18 L24 24 L18 30 Z" fill="url(#cb-grad)" opacity="0.5"/>
+  <path d="M40 24 L30 30 L24 24 L30 18 Z" fill="url(#cb-grad)" opacity="0.5"/>
+  <text x="54" y="21" font-family="Space Grotesk, Arial, sans-serif" font-size="17" font-weight="700" fill="#e8ecff">CongoBet</text>
+  <text x="54" y="38" font-family="Space Grotesk, Arial, sans-serif" font-size="13" font-weight="600" fill="#33c7ff" letter-spacing="2">AI</text>
+</svg>
