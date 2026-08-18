@@ -1,0 +1,165 @@
+{
+  "league_model_acc": {
+    "D1 Suède": {
+      "ensemble": {
+        "correct": 1,
+        "total": 2
+      },
+      "poisson": {
+        "correct": 1,
+        "total": 2
+      },
+      "dixon_coles": {
+        "correct": 1,
+        "total": 2
+      },
+      "elo": {
+        "correct": 1,
+        "total": 2
+      },
+      "bayesian": {
+        "correct": 1,
+        "total": 2
+      }
+    },
+    "D1 Danemark": {
+      "ensemble": {
+        "correct": 1,
+        "total": 1
+      },
+      "poisson": {
+        "correct": 1,
+        "total": 1
+      },
+      "dixon_coles": {
+        "correct": 1,
+        "total": 1
+      },
+      "elo": {
+        "correct": 1,
+        "total": 1
+      },
+      "bayesian": {
+        "correct": 1,
+        "total": 1
+      }
+    },
+    "D1 Norvège": {
+      "ensemble": {
+        "correct": 1,
+        "total": 1
+      },
+      "poisson": {
+        "correct": 1,
+        "total": 1
+      },
+      "dixon_coles": {
+        "correct": 1,
+        "total": 1
+      },
+      "elo": {
+        "correct": 0,
+        "total": 1
+      },
+      "bayesian": {
+        "correct": 1,
+        "total": 1
+      }
+    },
+    "D1 Brésil": {
+      "ensemble": {
+        "correct": 0,
+        "total": 1
+      },
+      "poisson": {
+        "correct": 0,
+        "total": 1
+      },
+      "dixon_coles": {
+        "correct": 0,
+        "total": 1
+      },
+      "elo": {
+        "correct": 0,
+        "total": 1
+      },
+      "bayesian": {
+        "correct": 0,
+        "total": 1
+      }
+    },
+    "D1 Suisse": {
+      "ensemble": {
+        "correct": 1,
+        "total": 1
+      },
+      "poisson": {
+        "correct": 1,
+        "total": 1
+      },
+      "dixon_coles": {
+        "correct": 1,
+        "total": 1
+      },
+      "elo": {
+        "correct": 1,
+        "total": 1
+      },
+      "bayesian": {
+        "correct": 1,
+        "total": 1
+      }
+    },
+    "Copa Sudamericana": {
+      "ensemble": {
+        "correct": 2,
+        "total": 2
+      },
+      "poisson": {
+        "correct": 2,
+        "total": 2
+      },
+      "dixon_coles": {
+        "correct": 2,
+        "total": 2
+      },
+      "elo": {
+        "correct": 2,
+        "total": 2
+      },
+      "bayesian": {
+        "correct": 2,
+        "total": 2
+      }
+    },
+    "D1 Argentine": {
+      "ensemble": {
+        "correct": 3,
+        "total": 3
+      },
+      "poisson": {
+        "correct": 3,
+        "total": 3
+      },
+      "dixon_coles": {
+        "correct": 3,
+        "total": 3
+      },
+      "elo": {
+        "correct": 2,
+        "total": 3
+      },
+      "bayesian": {
+        "correct": 2,
+        "total": 3
+      }
+    }
+  },
+  "global_acc": {
+    "ensemble": 0.592,
+    "poisson": 0.592,
+    "dixon_coles": 0.592,
+    "elo": 0.5088,
+    "bayesian": 0.542
+  }
+}

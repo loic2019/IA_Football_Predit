@@ -1,0 +1,16 @@
+{
+  "weights": {
+    "poisson": 0.1719,
+    "deep": 0.2084,
+    "xgb": 0.2052,
+    "lgbm": 0.2073,
+    "rf": 0.2073
+  },
+  "recent_accuracies": {
+    "poisson": 0.4,
+    "deep": 0.485,
+    "xgb": 0.4775,
+    "lgbm": 0.4825,
+    "rf": 0.4825
+  }
+}
