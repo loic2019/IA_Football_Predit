@@ -1,0 +1,35 @@
+playwright>=1.42.0
+beautifulsoup4>=4.12.0
+aiohttp>=3.9.0
+numpy>=1.26.0
+streamlit>=1.56.0  # requis pour st.iframe (phone_auth_widget.py)
+streamlit-autorefresh>=1.0.1
+requests>=2.31.0
+plyer>=2.1.0
+SpeechRecognition>=3.10.0
+openai>=1.40.0
+gTTS>=2.5.0
+huggingface_hub>=0.24.0
+safetensors>=0.4.0
+
+torch
+torchvision
+torchaudio
+
+pandas
+tqdm
+plotly
+
+anthropic>=0.40.0
+streamlit-navigation-bar>=3.0.0
+Pillow>=10.0.0
+
+xgboost>=2.0.0
+lightgbm>=4.0.0
+scikit-learn>=1.3.0
+catboost>=1.2.0
+
+playwright-stealth
+
+# Après pip install -r requirements.txt, lance séparément :
+#   playwright install chrome

@@ -1,0 +1,211 @@
+{
+  "scraped_at": "2026-08-18T23:13:45.441345",
+  "source": "1xBet",
+  "total": 12,
+  "matches": [
+    {
+      "id": "1xbet_16a1ba401e579f53",
+      "home": "Independiente Rivadavia",
+      "away": "Fluminense",
+      "league": "Copa Libertadores",
+      "country": "South America",
+      "start_time": "2026-08-18T23:00:00",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 1.37,
+          "X": 2.76,
+          "2": 3.1
+        }
+      },
+      "scraped_at": "2026-08-18T23:13:45.434347"
+    },
+    {
+      "id": "1xbet_cb0d22a93924f34a",
+      "home": "Todos os Santos",
+      "away": "Fortaleza Taua",
+      "league": "Brazil. Tauaense Championship. Division 2",
+      "country": "Brazil",
+      "start_time": "2026-08-18T22:00:01",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 1.03,
+          "X": 4.91,
+          "2": 10.4
+        }
+      },
+      "scraped_at": "2026-08-18T23:13:45.434347"
+    },
+    {
+      "id": "1xbet_4ac1ab2cabc71427",
+      "home": "Recoleta",
+      "away": "Boca Juniors",
+      "league": "Copa Sudamericana",
+      "country": "South America",
+      "start_time": "2026-08-18T23:00:00",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 2.27,
+          "X": 3.75,
+          "2": 1.59
+        }
+      },
+      "scraped_at": "2026-08-18T23:13:45.435344"
+    },
+    {
+      "id": "1xbet_ef9a18f5faeb7cc6",
+      "home": "Guabirá",
+      "away": "Universitario de Vinto",
+      "league": "Coupe de Bolivie",
+      "country": "Bolivia",
+      "start_time": "2026-08-18T23:00:00",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 1.03,
+          "X": 5.98,
+          "2": 10.5
+        }
+      },
+      "scraped_at": "2026-08-18T23:13:45.435344"
+    },
+    {
+      "id": "1xbet_96d25be2759cd972",
+      "home": "Mount Pleasant Academy",
+      "away": "Cibao",
+      "league": "CONCACAF Caribbean Cup",
+      "country": "World",
+      "start_time": "2026-08-18T23:00:00",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 1.23,
+          "X": 3.3,
+          "2": 4.01
+        }
+      },
+      "scraped_at": "2026-08-18T23:13:45.435344"
+    },
+    {
+      "id": "1xbet_3310f52437784702",
+      "home": "ASC Pasteef Diourbel",
+      "away": "ASC Jambar Diourbel",
+      "league": "Senegal. National Games Diourbel County",
+      "country": "Senegal",
+      "start_time": "2026-08-18T21:40:00",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 1.21,
+          "X": 1.77,
+          "2": 4.01
+        }
+      },
+      "scraped_at": "2026-08-18T23:13:45.436345"
+    },
+    {
+      "id": "1xbet_7ec0224801d6b38b",
+      "home": "Preto",
+      "away": "Cruzmaltina",
+      "league": "Short Football 4x4",
+      "country": "World",
+      "start_time": "2026-08-18T23:00:01",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 1.6,
+          "X": 6.43,
+          "2": 2.19
+        }
+      },
+      "scraped_at": "2026-08-18T23:13:45.436345"
+    },
+    {
+      "id": "1xbet_d4fc292ececeb90e",
+      "home": "Reactor Khabarovsk",
+      "away": "Lvy Novosibirsk",
+      "league": "RHL",
+      "country": "Russia",
+      "start_time": "2026-08-18T23:15:01",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 1.58,
+          "X": 6.01,
+          "2": 2.14
+        }
+      },
+      "scraped_at": "2026-08-18T23:13:45.436345"
+    },
+    {
+      "id": "1xbet_1ce6dfdbfe1a001b",
+      "home": "ENERGY",
+      "away": "CADASTRE",
+      "league": "Student League",
+      "country": "World",
+      "start_time": "2026-08-18T23:00:01",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 7.24,
+          "X": 10.0,
+          "2": 1.03
+        }
+      },
+      "scraped_at": "2026-08-18T23:13:45.436345"
+    },
+    {
+      "id": "1xbet_b754496497e99a43",
+      "home": "FOSSIL",
+      "away": "IT",
+      "league": "Student League 2",
+      "country": "World",
+      "start_time": "2026-08-18T23:00:01",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 1.66,
+          "X": 6.06,
+          "2": 1.97
+        }
+      },
+      "scraped_at": "2026-08-18T23:13:45.436345"
+    },
+    {
+      "id": "1xbet_3b3f755bdff10889",
+      "home": "Arminia (Amateur)",
+      "away": "Greuther Furth (Amateur)",
+      "league": "BudnesLiga LFL 5x5",
+      "country": "World",
+      "start_time": "2026-08-18T23:00:00",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 2.59,
+          "X": 4.87,
+          "2": 1.44
+        }
+      },
+      "scraped_at": "2026-08-18T23:13:45.436345"
+    },
+    {
+      "id": "1xbet_39007aab73ffdda2",
+      "home": "Augsburg (Amateur)",
+      "away": "Hoffenheim (Amateur)",
+      "league": "BudnesLiga LFL 5x5",
+      "country": "World",
+      "start_time": "2026-08-18T23:00:00",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 1.44,
+          "X": 3.79,
+          "2": 2.58
+        }
+      },
+      "scraped_at": "2026-08-18T23:13:45.436345"
+    }
+  ]
+}

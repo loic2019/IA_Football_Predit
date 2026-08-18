@@ -1,0 +1,81 @@
+{
+  "enabled": true,
+  "interval_minutes": 10,
+  "last_cycle_at": "2026-08-19T00:43:55.727231",
+  "last_cycle_status": "success",
+  "last_cycle_summary": {
+    "started_at": "2026-08-19T00:43:55.727231",
+    "scrapers": [
+      {
+        "source": "all",
+        "success": false,
+        "output": "",
+        "stderr": "object address  : 000001B7FE6482E0\nobject refcount : 2\nobject type     : 00007FF936130670\nobject type name: ValueError\nobject repr     : ValueError('I/O operation on closed file')\nlost sys.stderr\n"
+      },
+      {
+        "source": "premierbet",
+        "success": true,
+        "output": "\n═══════════════════════════════════════════════════════\n  🎯 Premier Bet Congo — Scraper Football\n  2026-08-19 00:43:58\n═══════════════════════════════════════════════════════\n\n",
+        "stderr": "2026-08-19 00:43:58,243 [INFO] → Récupération des matchs à venir du 2026-08-19 ...\n2026-08-19 00:43:58,797 [INFO]    5 matchs trouvés.\n2026-08-19 00:43:59,998 [INFO] → Récupération des matchs à venir du 2026-08-20 ...\n2026-08-19 00:44:00,646 [INFO]    5 matchs trouvés.\n2026-08-19 00:44:01,846 [INFO] → Récupération des matchs à venir du 2026-08-21 ...\n2026-08-19 00:44:02,384 [INFO]    5 matchs trouvés.\n2026-08-19 00:44:03,585 [INFO] → Récupération des matchs à venir du 2026-08-22 ...\n2026-08-19 00:44:04,234 [INFO]    5 matchs trouvés.\n2026-08-19 00:44:05,435 [INFO] → Récupération des matchs en direct ...\n2026-08-19 00:44:05,989 [INFO]    5 matchs en direct trouvés.\n2026-08-19 00:44:06,099 [INFO] ✅ 10 matchs Premier Bet sauvegardés dans congobet.db\n2026-08-19 00:44:06,099 [INFO] ℹ️ 1 noms de marchés distincts vus dans cette réponse API.\n2026-08-19 00:44:06,099 [INFO] ⚠️ Aucun marché 'corners' trouvé dans la réponse résumé de l'API (l'API upcoming/live ne renvoie peut-être que le marché 1X2 par défaut ; un appel à un endpoint détail par match serait alors nécessaire).\n2026-08-19 00:44:06,101 [INFO] 📄 Liste complète des marchés vus sauvegardée : logs\\premierbet_markets_seen_20260819_004406.txt\n"
+      }
+    ],
+    "training": {
+      "trained": 0,
+      "skipped": 1917,
+      "correct": 0,
+      "accuracy": 0,
+      "total_model_predictions": 1945,
+      "overall_accuracy": 0.42,
+      "last_train": "2026-08-18T09:42:31.663007",
+      "ensemble": {
+        "n_samples": 0,
+        "status": "insufficient_data",
+        "message": "Seulement 0 match(s) — minimum 40."
+      },
+      "teams_tracked": 142,
+      "history_size": 1945,
+      "neural_net": {
+        "status": "trained",
+        "epochs": 10,
+        "samples": 1945,
+        "final_loss": 0.8289,
+        "final_accuracy": 0.606,
+        "total_weights": 3075,
+        "elapsed_seconds": 16.6
+      }
+    },
+    "prediction": {
+      "generated_at": "2026-08-19T00:44:30.278792",
+      "source_mode": "live_futur",
+      "live_count": 250,
+      "future_count": 91,
+      "prediction_count": 91,
+      "coupon_size": 8,
+      "coupon_total_cote": 445.54
+    },
+    "stale_live_cleaned": 0,
+    "coupon_tracking": {
+      "save": {
+        "saved": false,
+        "reason": "coupon du jour deja sauvegarde",
+        "coupon_id": 39
+      },
+      "settle": {
+        "settled": 0,
+        "still_pending": 6
+      }
+    },
+    "wallet_settle": {
+      "settled": 0,
+      "won": 0,
+      "lost": 0
+    },
+    "wallet_coupon_settle": {
+      "settled": 0,
+      "won": 0,
+      "lost": 0
+    },
+    "followed_picks_updated": 0,
+    "finished_at": "2026-08-19T00:45:50.169763"
+  }
+}
