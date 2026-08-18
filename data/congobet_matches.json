@@ -1,0 +1,1565 @@
+{
+  "scraped_at": "2026-07-22T21:12:37.558158",
+  "total": 65,
+  "matches": [
+    {
+      "id": "75469450",
+      "home": "Chapecoense SC",
+      "away": "CR Flamengo RJ",
+      "league": "D1 Brésil",
+      "country": "Brésil",
+      "start_time": "2026-07-23T00:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 7.2,
+          "X": 4.5,
+          "2": 1.39
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "75181242",
+      "home": "Independiente del Valle",
+      "away": "Tecnico Universitario",
+      "league": "LigaPro Primera A",
+      "country": "Equateur",
+      "start_time": "2026-07-22T21:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.15,
+          "X": 5.2,
+          "2": 11.0
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.669274"
+    },
+    {
+      "id": "75569727",
+      "home": "Coritiba FC",
+      "away": "SE Palmeiras",
+      "league": "D1 Brésil",
+      "country": "Brésil",
+      "start_time": "2026-07-22T22:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 3.7,
+          "X": 3.1,
+          "2": 2.05
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "72405304",
+      "home": "Atletico Lanus",
+      "away": "Cienciano",
+      "league": "Copa Sudamericana",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T00:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.29,
+          "X": 5.0,
+          "2": 9.4
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.672269"
+    },
+    {
+      "id": "69568915",
+      "home": "Inter Miami CF",
+      "away": "Chicago Fire",
+      "league": "Major League Soccer",
+      "country": "Etats-Unis",
+      "start_time": "2026-07-22T23:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 2.34,
+          "X": 3.85,
+          "2": 2.55
+        },
+        "Nombre de buts": {
+          "> 2.5": 1.31
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.31
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "69576749",
+      "home": "Los Angeles FC",
+      "away": "Real Salt Lake",
+      "league": "Major League Soccer",
+      "country": "Etats-Unis",
+      "start_time": "2026-07-23T02:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.7,
+          "X": 4.0,
+          "2": 4.1
+        },
+        "Nombre de buts": {
+          "> 2.5": 1.5,
+          "> 1.5": 1.15
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.52
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.674267"
+    },
+    {
+      "id": "72405300",
+      "home": "Independiente Medellin",
+      "away": "Vasco de Gama",
+      "league": "Copa Sudamericana",
+      "country": "International Clubs",
+      "start_time": "2026-07-22T22:00:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 2.49,
+          "X": 3.05,
+          "2": 2.85
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.672269"
+    },
+    {
+      "id": "69568898",
+      "home": "Union Philadelphie",
+      "away": "New York Red Bulls",
+      "league": "Major League Soccer",
+      "country": "Etats-Unis",
+      "start_time": "2026-07-22T23:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.71,
+          "X": 4.0,
+          "2": 4.0
+        },
+        "Nombre de buts": {
+          "> 2.5": 1.44,
+          "> 1.5": 1.13
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.47
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "69571438",
+      "home": "Dynamo Houston",
+      "away": "DC United",
+      "league": "Major League Soccer",
+      "country": "Etats-Unis",
+      "start_time": "2026-07-23T00:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.74,
+          "X": 3.7,
+          "2": 4.3
+        },
+        "Nombre de buts": {
+          "> 1.5": 1.22
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "75634655",
+      "home": "FC Manta",
+      "away": "LDU Quito",
+      "league": "LigaPro Primera A",
+      "country": "Equateur",
+      "start_time": "2026-07-23T00:00:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 4.2,
+          "X": 3.05,
+          "2": 1.72
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.672269"
+    },
+    {
+      "id": "72405299",
+      "home": "Sporting Cristal",
+      "away": "Red Bull Bragantino",
+      "league": "Copa Sudamericana",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T00:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 3.25,
+          "X": 3.3,
+          "2": 2.15
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.672269"
+    },
+    {
+      "id": "69576752",
+      "home": "San José Earthquakes",
+      "away": "Orlando City",
+      "league": "Major League Soccer",
+      "country": "Etats-Unis",
+      "start_time": "2026-07-23T02:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.62,
+          "X": 4.4,
+          "2": 4.2
+        },
+        "Nombre de buts": {
+          "> 2.5": 1.32
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.674267"
+    },
+    {
+      "id": "76955110",
+      "home": "KF Malisheva",
+      "away": "Hibernian FC",
+      "league": "Europa Conference League",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T14:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 5.2,
+          "X": 3.9,
+          "2": 1.51
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.670273"
+    },
+    {
+      "id": "74266944",
+      "home": "HJK Helsinki",
+      "away": "Coleraine",
+      "league": "Europa Conference League",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T16:00:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.38,
+          "X": 4.5,
+          "2": 6.2
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.670273"
+    },
+    {
+      "id": "77099289",
+      "home": "Qarabag FK",
+      "away": "CSKA Sofia",
+      "league": "Ligue Europa",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T16:00:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.4,
+          "X": 4.1,
+          "2": 6.6
+        },
+        "Les deux équipes marquent": {
+          "Oui": 2.1
+        },
+        "Nombre de buts": {
+          "> 2.5": 1.83
+        },
+        "Les deux équipes marquent et nombre de buts": {
+          "Oui / > 2.5": 2.46
+        },
+        "Mi-temps avec le plus de buts": {
+          "2ème": 2.1
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "74445071",
+      "home": "RKS Rakow Czestochowa",
+      "away": "La Vallette FC",
+      "league": "Europa Conference League",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T16:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.1,
+          "X": 7.8,
+          "2": 17.0
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.670273"
+    },
+    {
+      "id": "77127906",
+      "home": "FC Dynamo Kiev",
+      "away": "PAOK Salonique",
+      "league": "Ligue Europa",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T17:00:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 2.8,
+          "X": 3.1,
+          "2": 2.31
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.89
+        },
+        "Nombre de buts": {
+          "> 2.5": 2.08
+        },
+        "Les deux équipes marquent et nombre de buts": {
+          "Oui / > 2.5": 2.33
+        },
+        "Mi-temps avec le plus de buts": {
+          "2ème": 2.06
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "77162160",
+      "home": "Sheriff Tiraspol",
+      "away": "Maccabi Tel Aviv",
+      "league": "Ligue Europa",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T17:00:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 3.15,
+          "X": 3.15,
+          "2": 2.1
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.97
+        },
+        "Nombre de buts": {
+          "> 2.5": 2.15
+        },
+        "Les deux équipes marquent et nombre de buts": {
+          "Oui / > 2.5": 2.44
+        },
+        "Mi-temps avec le plus de buts": {
+          "2ème": 2.08
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "77128201",
+      "home": "Tromso IL",
+      "away": "Hradec Kralove",
+      "league": "Ligue Europa",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T17:00:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.45,
+          "X": 3.95,
+          "2": 6.0
+        },
+        "Les deux équipes marquent": {
+          "Oui": 2.07
+        },
+        "Nombre de buts": {
+          "> 2.5": 1.86
+        },
+        "Les deux équipes marquent et nombre de buts": {
+          "Oui / > 2.5": 2.44
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "74270429",
+      "home": "Fotbal Club FCSB",
+      "away": "FK Auda Riga",
+      "league": "Europa Conference League",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T17:45:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.17,
+          "X": 5.8,
+          "2": 12.0
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.670273"
+    },
+    {
+      "id": "74167843",
+      "home": "FC St-Gall",
+      "away": "Benfica Lisbonne",
+      "league": "Ligue Europa",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T18:00:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 6.2,
+          "X": 4.5,
+          "2": 1.38
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.71
+        },
+        "Nombre de buts": {
+          "> 2.5": 1.5
+        },
+        "Les deux équipes marquent et nombre de buts": {
+          "Oui / > 2.5": 1.9
+        },
+        "Mi-temps avec le plus de buts": {
+          "2ème": 2.02
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "74167845",
+      "home": "Besiktas",
+      "away": "FC Midtjylland",
+      "league": "Ligue Europa",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T18:00:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 2.05,
+          "X": 3.25,
+          "2": 3.15
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.66
+        },
+        "Nombre de buts": {
+          "> 2.5": 1.76
+        },
+        "Les deux équipes marquent et nombre de buts": {
+          "Oui / > 2.5": 1.96
+        },
+        "Mi-temps avec le plus de buts": {
+          "2ème": 2.04
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "76955111",
+      "home": "Paksi SE",
+      "away": "Panathinaïkos",
+      "league": "Europa Conference League",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T18:00:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 4.6,
+          "X": 3.95,
+          "2": 1.56
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.670273"
+    },
+    {
+      "id": "76955107",
+      "home": "FK Vojvodina",
+      "away": "Ajax Amsterdam",
+      "league": "Europa Conference League",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T18:00:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 5.2,
+          "X": 3.9,
+          "2": 1.5
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.670273"
+    },
+    {
+      "id": "74267173",
+      "home": "FC Polissya Zhytomyr",
+      "away": "FC Copenhague",
+      "league": "Europa Conference League",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T18:00:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 3.7,
+          "X": 3.5,
+          "2": 1.81
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.670273"
+    },
+    {
+      "id": "76915161",
+      "home": "FC Twente",
+      "away": "Ferencvaros",
+      "league": "Ligue Europa",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T18:00:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.58,
+          "X": 3.7,
+          "2": 4.8
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.83
+        },
+        "Nombre de buts": {
+          "> 2.5": 1.77
+        },
+        "Les deux équipes marquent et nombre de buts": {
+          "Oui / > 2.5": 2.15
+        },
+        "Mi-temps avec le plus de buts": {
+          "2ème": 2.06
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "75989694",
+      "home": "FC Lugano",
+      "away": "KF Dukagjini",
+      "league": "Europa Conference League",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T18:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.18,
+          "X": 5.6,
+          "2": 12.0
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.670273"
+    },
+    {
+      "id": "76931179",
+      "home": "HNK Rijeka",
+      "away": "Derry City",
+      "league": "Europa Conference League",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T18:45:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.13,
+          "X": 6.4,
+          "2": 15.0
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.670273"
+    },
+    {
+      "id": "77179164",
+      "home": "Motherwell FC",
+      "away": "HB Torshavn",
+      "league": "Europa Conference League",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T18:45:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.11,
+          "X": 7.4,
+          "2": 15.0
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.670273"
+    },
+    {
+      "id": "76779460",
+      "home": "FK Partizan",
+      "away": "FC Una Strassen",
+      "league": "Europa Conference League",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T19:00:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.18,
+          "X": 5.8,
+          "2": 10.0
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.670273"
+    },
+    {
+      "id": "74251331",
+      "home": "Hammarby IF",
+      "away": "RSC Anderlecht",
+      "league": "Ligue Europa",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T17:00:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 2.11
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.69
+        },
+        "Nombre de buts": {
+          "> 2.5": 1.8
+        },
+        "Les deux équipes marquent et nombre de buts": {
+          "Oui / > 2.5": 2.01
+        },
+        "Mi-temps avec le plus de buts": {
+          "2ème": 2.03
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "77126672",
+      "home": "Hajduk Split",
+      "away": "Paphos FC",
+      "league": "Ligue Europa",
+      "country": "International Clubs",
+      "start_time": "2026-07-23T19:00:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 2.08
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.9
+        },
+        "Nombre de buts": {
+          "> 2.5": 2.09
+        },
+        "Les deux équipes marquent et nombre de buts": {
+          "Oui / > 2.5": 2.37
+        },
+        "Mi-temps avec le plus de buts": {
+          "2ème": 2.09
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "69568896",
+      "home": "New England Revolution",
+      "away": "Toronto FC",
+      "league": "Major League Soccer",
+      "country": "Etats-Unis",
+      "start_time": "2026-07-22T23:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Nombre de buts": {
+          "> 2.5": 1.68,
+          "> 1.5": 1.21
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.6
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "69568897",
+      "home": "Columbus Crew",
+      "away": "New York City",
+      "league": "Major League Soccer",
+      "country": "Etats-Unis",
+      "start_time": "2026-07-22T23:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Nombre de buts": {
+          "> 2.5": 1.77,
+          "> 1.5": 1.24
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.71
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "69570503",
+      "home": "Charlotte FC",
+      "away": "Atlanta United",
+      "league": "Major League Soccer",
+      "country": "Etats-Unis",
+      "start_time": "2026-07-23T00:15:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Nombre de buts": {
+          "> 2.5": 1.65,
+          "> 1.5": 1.2
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.57
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "69571435",
+      "home": "Austin FC",
+      "away": "Seattle Sounders",
+      "league": "Major League Soccer",
+      "country": "Etats-Unis",
+      "start_time": "2026-07-23T01:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Nombre de buts": {
+          "> 2.5": 1.68,
+          "> 1.5": 1.21
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.58
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "69571442",
+      "home": "Nashville SC",
+      "away": "CF Montréal",
+      "league": "Major League Soccer",
+      "country": "Etats-Unis",
+      "start_time": "2026-07-23T00:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Nombre de buts": {
+          "> 2.5": 1.57,
+          "> 1.5": 1.17
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.7
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "69571443",
+      "home": "Kansas City",
+      "away": "Minnesota United",
+      "league": "Major League Soccer",
+      "country": "Etats-Unis",
+      "start_time": "2026-07-23T00:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Nombre de buts": {
+          "> 2.5": 1.53,
+          "> 1.5": 1.16
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.49
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "69575223",
+      "home": "Colorado Rapids",
+      "away": "San Diego FC",
+      "league": "Major League Soccer",
+      "country": "Etats-Unis",
+      "start_time": "2026-07-23T01:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Nombre de buts": {
+          "> 2.5": 1.43
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.42
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "69576750",
+      "home": "Los Angeles Galaxy",
+      "away": "Saint Louis City SC",
+      "league": "Major League Soccer",
+      "country": "Etats-Unis",
+      "start_time": "2026-07-23T02:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Nombre de buts": {
+          "> 2.5": 1.54,
+          "> 1.5": 1.16
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.5
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.674267"
+    },
+    {
+      "id": "69576751",
+      "home": "Portland Timbers",
+      "away": "FC Dallas",
+      "league": "Major League Soccer",
+      "country": "Etats-Unis",
+      "start_time": "2026-07-23T02:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Nombre de buts": {
+          "> 2.5": 1.44,
+          "> 1.5": 1.12
+        },
+        "Les deux équipes marquent": {
+          "Oui": 1.39
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.674267"
+    },
+    {
+      "id": "72667956",
+      "home": "SC Internacional",
+      "away": "Cruzeiro MG",
+      "league": "D1 Brésil",
+      "country": "Brésil",
+      "start_time": "2026-07-23T00:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 2.28
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "75469452",
+      "home": "Sao Paulo FC SP",
+      "away": "CA Paranaense",
+      "league": "D1 Brésil",
+      "country": "Brésil",
+      "start_time": "2026-07-23T00:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.98
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "75569726",
+      "home": "SC Corinthians",
+      "away": "Clube Do Remo PA",
+      "league": "D1 Brésil",
+      "country": "Brésil",
+      "start_time": "2026-07-23T22:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.48
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "76295057",
+      "home": "FR Botafogo",
+      "away": "EC Vitoria BA",
+      "league": "D1 Brésil",
+      "country": "Brésil",
+      "start_time": "2026-07-23T22:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.69
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "69568895",
+      "home": "FC Cincinnati",
+      "away": "Vancouver Whitecaps",
+      "league": "Major League Soccer",
+      "country": "Etats-Unis",
+      "start_time": "2026-07-22T23:30:00Z",
+      "is_live": false,
+      "state": "Undisputed",
+      "state_details": "NotStarted",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Nombre de buts": {
+          "> 2.5": 1.34
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:36.673268"
+    },
+    {
+      "id": "77082107",
+      "home": "KF Egnatia",
+      "away": "NK Celje",
+      "league": "Ligue des Champions",
+      "country": "International Clubs",
+      "start_time": "2026-07-22T19:00:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Period2",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 3.25,
+          "X": 2.1,
+          "2": 3.0
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.551506"
+    },
+    {
+      "id": "74267174",
+      "home": "Spartak Trnava",
+      "away": "FC CSKA 1948",
+      "league": "Europa Conference League",
+      "country": "International Clubs",
+      "start_time": "2026-07-22T18:30:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Period2",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 4.95,
+          "X": 1.25,
+          "2": 7.0
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.551506"
+    },
+    {
+      "id": "74267404",
+      "home": "FK Zeleznicar Pancevo",
+      "away": "SC Braga",
+      "league": "Europa Conference League",
+      "country": "International Clubs",
+      "start_time": "2026-07-22T19:00:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Period2",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 6.75,
+          "X": 2.2,
+          "2": 1.85
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.551506"
+    },
+    {
+      "id": "76968944",
+      "home": "Burton Albion",
+      "away": "Birmingham City",
+      "league": "Matchs Amicaux",
+      "country": "International Clubs",
+      "start_time": "2026-07-22T18:30:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Period2",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Qui va marquer ce but ?": {
+          "2ème  but : 1": 7.0,
+          "2ème  but : X": 1.14,
+          "2ème  but : 2": 5.1
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.551506"
+    },
+    {
+      "id": "76968965",
+      "home": "CD Tenerife",
+      "away": "Getafe CF",
+      "league": "Matchs Amicaux",
+      "country": "International Clubs",
+      "start_time": "2026-07-22T18:30:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Period2",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 6.0,
+          "X": 1.27,
+          "2": 5.2
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.551506"
+    },
+    {
+      "id": "76968964",
+      "home": "Recreativo Huelva",
+      "away": "Real Betis Balompié",
+      "league": "Matchs Amicaux",
+      "country": "International Clubs",
+      "start_time": "2026-07-22T18:30:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Period2",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Qui va marquer ce but ?": {
+          "2ème  but : 1": 8.0,
+          "2ème  but : X": 1.27,
+          "2ème  but : 2": 3.2
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.551506"
+    },
+    {
+      "id": "76968939",
+      "home": "Maidenhead United FC",
+      "away": "Wolverhampton Wanderers FC",
+      "league": "Matchs Amicaux",
+      "country": "International Clubs",
+      "start_time": "2026-07-22T18:30:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Period2",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Qui va marquer ce but ?": {
+          "2ème  but : 1": 11.5,
+          "2ème  but : X": 1.27,
+          "2ème  but : 2": 3.0
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.551506"
+    },
+    {
+      "id": "76968888",
+      "home": "Eastleigh FC",
+      "away": "Valenciennes FC",
+      "league": "Matchs Amicaux",
+      "country": "International Clubs",
+      "start_time": "2026-07-22T18:45:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Period2",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 23.0,
+          "X": 4.6,
+          "2": 1.12
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.551506"
+    },
+    {
+      "id": "76968942",
+      "home": "Stevenage FC",
+      "away": "West Ham United FC",
+      "league": "Matchs Amicaux",
+      "country": "International Clubs",
+      "start_time": "2026-07-22T18:45:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Period2",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Qui va marquer ce but ?": {
+          "4ème  but : 1": 3.4,
+          "4ème  but : X": 2.0,
+          "4ème  but : 2": 2.35
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.551506"
+    },
+    {
+      "id": "77354122",
+      "home": "Gil Vicente",
+      "away": "FC Porto",
+      "league": "Matchs Amicaux",
+      "country": "International Clubs",
+      "start_time": "2026-07-22T19:00:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Pause1",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 4.5,
+          "X": 2.4,
+          "2": 2.0
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.551506"
+    },
+    {
+      "id": "76968937",
+      "home": "Queen of the South FC",
+      "away": "Aberdeen FC",
+      "league": "Coupe de la Ligue d'Écosse",
+      "country": "Ecosse",
+      "start_time": "2026-07-22T18:45:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Period2",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 8.5,
+          "X": 2.05,
+          "2": 1.85
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.552506"
+    },
+    {
+      "id": "76968974",
+      "home": "SC Boavista RJ",
+      "away": "Araruama FC RJ",
+      "league": "Copa Rio",
+      "country": "Brésil",
+      "start_time": "2026-07-22T19:00:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Period2",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.5,
+          "X": 2.7,
+          "2": 9.75
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.552506"
+    },
+    {
+      "id": "75634658",
+      "home": "CSD Macara",
+      "away": "CD Cuenca",
+      "league": "LigaPro Primera A",
+      "country": "Equateur",
+      "start_time": "2026-07-22T19:00:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Period2",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 1.25,
+          "X": 3.9,
+          "2": 11.0
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.552506"
+    },
+    {
+      "id": "77278784",
+      "home": "FC Bayern Munich (Kai)",
+      "away": "FC Barcelona (Oliver)",
+      "league": "eAdriatic League",
+      "country": "eAdriatic League",
+      "start_time": "2026-07-22T20:05:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Period2",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 3.1,
+          "X": 2.8,
+          "2": 2.25
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.552506"
+    },
+    {
+      "id": "77278850",
+      "home": "Paris Saint-Germain (Misterx)",
+      "away": "Real Madrid (Lucas)",
+      "league": "eAdriatic League",
+      "country": "eAdriatic League",
+      "start_time": "2026-07-22T20:05:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Period2",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "X": 9.0,
+          "2": 50.0
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.552506"
+    },
+    {
+      "id": "75491678",
+      "home": "Seattle",
+      "away": "Cincinnati Reds",
+      "league": "MLB",
+      "country": "Etats-Unis",
+      "start_time": "2026-07-22T19:40:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Period2",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match (prolongations incluses)": {
+          "1": 1.25,
+          "2": 3.35
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.552506"
+    },
+    {
+      "id": "75493478",
+      "home": "Arizona Diamondbacks",
+      "away": "Athletics",
+      "league": "MLB",
+      "country": "Etats-Unis",
+      "start_time": "2026-07-22T19:40:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Pause",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match (prolongations incluses)": {
+          "1": 1.65,
+          "2": 2.05
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.552506"
+    },
+    {
+      "id": "77385487",
+      "home": "Esprit Shonen",
+      "away": "Karmine Corp Blue",
+      "league": "LFL",
+      "country": "Riot LoL",
+      "start_time": "2026-07-22T20:00:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Period1",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match": {
+          "1": 7.25,
+          "2": 1.05
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.552506"
+    },
+    {
+      "id": "75493545",
+      "home": "Los Angeles Angels",
+      "away": "St. Louis Cardinals",
+      "league": "MLB",
+      "country": "Etats-Unis",
+      "start_time": "2026-07-22T20:07:00Z",
+      "is_live": false,
+      "state": "Started",
+      "state_details": "Period1",
+      "home_score": null,
+      "away_score": null,
+      "result": null,
+      "markets": {
+        "Résultat du match (prolongations incluses)": {
+          "1": 1.45,
+          "2": 2.4
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:37.552506"
+    }
+  ]
+}

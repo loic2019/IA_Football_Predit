@@ -1,0 +1,84 @@
+{
+  "enabled": true,
+  "interval_minutes": 10,
+  "last_cycle_at": "2026-07-21T05:16:12.902693",
+  "last_cycle_status": "success",
+  "last_cycle_summary": {
+    "started_at": "2026-07-21T05:16:12.902693",
+    "scrapers": [
+      {
+        "source": "all",
+        "success": false,
+        "output": "",
+        "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\LOBEZOS\\Downloads\\Scrapper_2\\scraper_multi.py\", line 33, in <module>\n    from scraper_1xbet_api import scrape_1xbet_top_events\n  File \"C:\\Users\\LOBEZOS\\Downloads\\Scrapper_2\\scraper_1xbet_api.py\", line 28, in <module>\n    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: I/O operation on closed file\n"
+      },
+      {
+        "source": "sofascore",
+        "success": false,
+        "error": "Timeout"
+      }
+    ],
+    "training": {
+      "trained": 0,
+      "skipped": 2000,
+      "correct": 0,
+      "accuracy": 0,
+      "total_model_predictions": 4382,
+      "overall_accuracy": 0.244,
+      "last_train": "2026-07-15T01:46:35.513653",
+      "ensemble": {
+        "n_samples": 2000,
+        "deep": {
+          "trained": true,
+          "train_acc": 0.4981,
+          "val_acc": 0.485,
+          "epochs_run": 56,
+          "n_samples": 2000,
+          "depth_profile_chosen": "medium",
+          "device": "cpu",
+          "candidates_val_acc": {
+            "shallow": 0.47,
+            "medium": 0.485,
+            "deep": 0.4225
+          }
+        },
+        "xgb": {
+          "trained": true,
+          "train_acc": 0.5319,
+          "val_acc": 0.4775,
+          "n_samples": 2000
+        },
+        "lgbm": {
+          "trained": true,
+          "train_acc": 0.5288,
+          "val_acc": 0.4825,
+          "n_samples": 2000
+        },
+        "rf": {
+          "trained": true,
+          "train_acc": 0.5394,
+          "val_acc": 0.4825,
+          "n_samples": 2000
+        },
+        "status": "trained",
+        "weights": {
+          "poisson": 0.1719,
+          "deep": 0.2084,
+          "xgb": 0.2052,
+          "lgbm": 0.2073,
+          "rf": 0.2073
+        }
+      }
+    },
+    "prediction": {
+      "generated_at": "2026-07-21T05:20:55.346751",
+      "source_mode": "live_futur",
+      "live_count": 0,
+      "future_count": 88,
+      "prediction_count": 88,
+      "coupon_size": 8,
+      "coupon_total_cote": 2.33
+    },
+    "finished_at": "2026-07-21T05:20:55.397728"
+  }
+}

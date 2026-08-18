@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  body { margin: 0; font-family: 'Inter', -apple-system, sans-serif; color: #e8ecff; background: transparent; }
+  #phone-auth-root { padding: 4px; }
+  label { font-size: 13px; color: #98a2c0; }
+  input {
+    width: 100%; padding: 10px; margin-top: 6px; border-radius: 8px;
+    border: 1px solid rgba(255,255,255,0.15); background: rgba(255,255,255,0.05);
+    color: #e8ecff; font-size: 14px; box-sizing: border-box;
+  }
+  button {
+    margin-top: 10px; width: 100%; padding: 10px; border-radius: 8px; border: none;
+    font-weight: 600; cursor: pointer;
+  }
+  #send-code-btn { background: #33c7ff; color: #06111d; }
+  #verify-code-btn { background: #2ecc87; color: #06111d; }
+  .status { margin-top: 8px; font-size: 13px; color: #98a2c0; }
+</style>
+</head>
+<body>
+  <div id="phone-auth-root">
+    <div id="step-phone">
+      <label>Numéro de téléphone (avec indicatif, ex: +242XXXXXXXXX)</label>
+      <input id="phone-input" type="tel" placeholder="+242XXXXXXXXX" />
+      <div id="recaptcha-container" style="margin-top:10px;"></div>
+      <button id="send-code-btn">Envoyer le code par SMS</button>
+      <div id="phone-status" class="status"></div>
+    </div>
+
+    <div id="step-code" style="display:none;margin-top:16px;">
+      <label>Code reçu par SMS</label>
+      <input id="code-input" type="text" placeholder="123456" />
+      <button id="verify-code-btn">Vérifier et se connecter</button>
+      <div id="code-status" class="status"></div>
+    </div>
+  </div>
+
+  <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth-compat.js"></script>
+  <script>
+    /**
+     * Mini-implémentation du protocole officiel de communication des
+     * composants Streamlit (window.parent.postMessage), reconstruite à
+     * partir du VRAI code source du package npm "streamlit-component-lib"
+     * (dist/streamlit.js) plutôt que devinée. On n'importe pas le package
+     * lui-même (il est distribué en modules ES/CommonJS pensés pour un
+     * bundler React, pas pour un simple <script> dans une page HTML brute),
+     * mais le protocole de messages qu'il utilise est simple, stable et
+     * documenté : trois types de message, tous envoyés via
+     * window.parent.postMessage(...).
+     *
+     * POURQUOI CE CHANGEMENT (par rapport à l'ancienne version) :
+     * L'ancienne version tentait de faire naviguer `window.top.location`
+     * depuis l'intérieur de l'iframe pour transmettre le token Firebase à
+     * Python. Or AUCUNE iframe Streamlit (ni components.html, ni st.iframe)
+     * n'inclut la permission de sandbox `allow-top-navigation` — cette
+     * navigation était donc silencieusement bloquée par le navigateur, quel
+     * que soit le mécanisme de rendu utilisé. postMessage, en revanche, ne
+     * nécessite PAS cette permission (seulement `allow-scripts`, déjà
+     * présent) : c'est le mécanisme correct et robuste.
+     */
+    const StreamlitBridge = {
+      _sendBackMsg(type, data) {
+        window.parent.postMessage(Object.assign({ isStreamlitMessage: true, type: type }, data), "*");
+      },
+      setComponentReady() {
+        this._sendBackMsg("streamlit:componentReady", { apiVersion: 1 });
+      },
+      setFrameHeight(height) {
+        if (height === undefined) height = document.body.scrollHeight;
+        this._sendBackMsg("streamlit:setFrameHeight", { height: height });
+      },
+      setComponentValue(value) {
+        this._sendBackMsg("streamlit:setComponentValue", { value: value, dataType: "json" });
+      },
+    };
+
+    // --- Réception de la config Firebase envoyée par Python (voir phone_auth_widget.py) ---
+    // Streamlit envoie un message "streamlit:render" contenant les arguments
+    // passés à _component_func(...) dans data.args. On l'attend avant
+    // d'initialiser Firebase (le tout premier rendu contient déjà les args).
+    let firebaseInitialized = false;
+
+    function initFirebaseOnce(config) {
+      if (firebaseInitialized || !config) return;
+      firebaseInitialized = true;
+      firebase.initializeApp(config);
+      window.recaptchaVerifier = new firebase.auth.RecaptchaVerifier('recaptcha-container', {
+        'size': 'normal',
+      });
+    }
+
+    window.addEventListener("message", function (event) {
+      const data = event.data;
+      if (data && data.type === "streamlit:render" && data.args) {
+        initFirebaseOnce(data.args.firebase_config);
+      }
+    });
+
+    let confirmationResult = null;
+
+    function reportHeight() {
+      StreamlitBridge.setFrameHeight(document.body.scrollHeight + 20);
+    }
+
+    document.getElementById('send-code-btn').addEventListener('click', function () {
+      const phone = document.getElementById('phone-input').value.trim();
+      const status = document.getElementById('phone-status');
+      if (!phone.startsWith('+')) {
+        status.innerText = "⚠️ Le numéro doit commencer par + et l'indicatif pays (ex: +242...)";
+        return;
+      }
+      status.innerText = "Envoi en cours...";
+      firebase.auth().signInWithPhoneNumber(phone, window.recaptchaVerifier)
+        .then(function (result) {
+          confirmationResult = result;
+          status.innerText = "✅ Code envoyé.";
+          document.getElementById('step-code').style.display = 'block';
+          reportHeight();
+        })
+        .catch(function (error) {
+          status.innerText = "❌ " + error.message;
+        });
+    });
+
+    document.getElementById('verify-code-btn').addEventListener('click', function () {
+      const code = document.getElementById('code-input').value.trim();
+      const status = document.getElementById('code-status');
+      if (!confirmationResult) {
+        status.innerText = "⚠️ Demande d'abord un code.";
+        return;
+      }
+      status.innerText = "Vérification...";
+      confirmationResult.confirm(code).then(function (result) {
+        return result.user.getIdToken().then(function (idToken) {
+          status.innerText = "✅ Vérifié ! Connexion en cours...";
+          // Renvoie directement la valeur à Python — aucune navigation requise.
+          StreamlitBridge.setComponentValue({
+            idToken: idToken,
+            phoneNumber: result.user.phoneNumber,
+          });
+        });
+      }).catch(function (error) {
+        status.innerText = "❌ Code incorrect ou expiré : " + error.message;
+      });
+    });
+
+    // Annonce à Streamlit que le composant est prêt, puis signale sa hauteur.
+    StreamlitBridge.setComponentReady();
+    reportHeight();
+    window.addEventListener("resize", reportHeight);
+  </script>
+</body>
+</html>

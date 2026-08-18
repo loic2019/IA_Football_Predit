@@ -1,0 +1,837 @@
+{
+  "tracked": {
+    "premierbet:7353259": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Athens Kallithea FC",
+      "away": "AE Larissa FC",
+      "league": "Coupe de Grèce",
+      "misses": 1
+    },
+    "premierbet:7357101": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Social Atletico Television",
+      "away": "San Lorenzo de Almagro",
+      "league": "D1 féminine",
+      "misses": 1
+    },
+    "premierbet:7157830": {
+      "home_score": null,
+      "away_score": null,
+      "home": "IF Gnistan",
+      "away": "Ilves Tampere",
+      "league": "Veikkausliiga",
+      "misses": 1
+    },
+    "premierbet:7259152": {
+      "home_score": null,
+      "away_score": null,
+      "home": "FC Polissya Zhytomyr",
+      "away": "FC Zorya Lugansk",
+      "league": "Premier League",
+      "misses": 1
+    },
+    "premierbet:7147961": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Universitatea Cluj",
+      "away": "Uta Arad",
+      "league": "Superliga",
+      "misses": 1
+    },
+    "premierbet:7335846": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Zalaegerszeg TE",
+      "away": "Ferencvaros",
+      "league": "NB I",
+      "misses": 1
+    },
+    "premierbet:7330787": {
+      "home_score": null,
+      "away_score": null,
+      "home": "FK Spartak 1918 Varna",
+      "away": "Septemvri Sofia",
+      "league": "Parva Liga",
+      "misses": 1
+    },
+    "premierbet:7169066": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Pisa SC",
+      "away": "Empoli FC",
+      "league": "Coupe d'Italie",
+      "misses": 1
+    },
+    "premierbet:7169064": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Sassuolo",
+      "away": "Cesena FC",
+      "league": "Coupe d'Italie",
+      "misses": 1
+    },
+    "premierbet:7232197": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Brondby IF",
+      "away": "Soenderjyske",
+      "league": "Superliga",
+      "misses": 1
+    },
+    "premierbet:7123605": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Sporting Gijon",
+      "away": "CE Sabadell FC",
+      "league": "LaLiga 2",
+      "misses": 1
+    },
+    "premierbet:7237668": {
+      "home_score": null,
+      "away_score": null,
+      "home": "FC Felgueiras 1932",
+      "away": "Avs Futebol Sad",
+      "league": "Liga Portugal 2",
+      "misses": 1
+    },
+    "premierbet:7344797": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Ajax Amsterdam",
+      "away": "FC Emmen",
+      "league": "Eerste Divisie",
+      "misses": 1
+    },
+    "premierbet:7278783": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Estudiantes Rio Cuarto",
+      "away": "Atletico Tucuman",
+      "league": "Ligue Professionelle",
+      "misses": 1
+    },
+    "premierbet:7344796": {
+      "home_score": null,
+      "away_score": null,
+      "home": "FC Utrecht",
+      "away": "Vitesse Arnhem",
+      "league": "Eerste Divisie",
+      "misses": 1
+    },
+    "premierbet:7174023": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Samsunspor",
+      "away": "Goztepe SK",
+      "league": "Super Lig",
+      "misses": 1
+    },
+    "premierbet:7325243": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Casa Pia AC",
+      "away": "Benfica Lisbonne",
+      "league": "Liga Portugal",
+      "misses": 1
+    },
+    "premierbet:7123786": {
+      "home_score": null,
+      "away_score": null,
+      "home": "La Corogne",
+      "away": "CF Elche",
+      "league": "LaLiga",
+      "misses": 1
+    },
+    "premierbet:7200069": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Fram Reykjavik",
+      "away": "Stjarnan Gardabaer",
+      "league": "Besta deild",
+      "misses": 1
+    },
+    "premierbet:7367478": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Afturelding",
+      "away": "HK Kopavogur",
+      "league": "1. division",
+      "misses": 1
+    },
+    "premierbet:7123606": {
+      "home_score": null,
+      "away_score": null,
+      "home": "UD Almeria",
+      "away": "Club Deportivo Eldense",
+      "league": "LaLiga 2",
+      "misses": 1
+    },
+    "premierbet:7168977": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Palerme FC",
+      "away": "US Lecce",
+      "league": "Coupe d'Italie",
+      "misses": 1
+    },
+    "premierbet:7278774": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Atletico Lanus",
+      "away": "CA Independiente",
+      "league": "Ligue Professionelle",
+      "misses": 1
+    },
+    "premierbet:7383838": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Sweden",
+      "away": "ZWC.Congo DR",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7383839": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Curaçao",
+      "away": "ZWC.Morocco",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7383837": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Tunisia",
+      "away": "ZWC.Colombia",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7383836": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Argentina",
+      "away": "ZWC.Paraguay",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7384139": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Congo DR",
+      "away": "ZWC.Tunisia",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7384140": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Japan",
+      "away": "ZWC.New Zealand",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7271731": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Deportes Copiapo",
+      "away": "Curico Unido",
+      "league": "Primera B",
+      "misses": 1
+    },
+    "premierbet:7361516": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Club General Caballero Jlm",
+      "away": "Tacuary Asuncion",
+      "league": "Seconde Division",
+      "misses": 1
+    },
+    "premierbet:7384138": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Egypt",
+      "away": "ZWC.Netherlands",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7271730": {
+      "home_score": null,
+      "away_score": null,
+      "home": "CD Santa Cruz",
+      "away": "San Luis de Quillota",
+      "league": "Primera B",
+      "misses": 1
+    },
+    "premierbet:7278772": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Velez Sarsfield",
+      "away": "Defensa y Justicia",
+      "league": "Ligue Professionelle",
+      "misses": 1
+    },
+    "premierbet:7361514": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Club Leon",
+      "away": "Queretaro FC",
+      "league": "D1 féminine, Ouverture",
+      "misses": 1
+    },
+    "premierbet:7269791": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Ferroviaria Araraquara SP",
+      "away": "Paysandu SC PA",
+      "league": "Brasileiro Serie C",
+      "misses": 1
+    },
+    "premierbet:7191326": {
+      "home_score": null,
+      "away_score": null,
+      "home": "SC Internacional",
+      "away": "Clube Do Remo PA",
+      "league": "Brasileiro Serie A",
+      "misses": 1
+    },
+    "premierbet:7269792": {
+      "home_score": null,
+      "away_score": null,
+      "home": "FC Guarani SP",
+      "away": "FC Ypiranga",
+      "league": "Brasileiro Serie C",
+      "misses": 1
+    },
+    "premierbet:7361515": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Deportivo Toluca FC",
+      "away": "Atlas FC",
+      "league": "D1 féminine, Ouverture",
+      "misses": 1
+    },
+    "premierbet:7319669": {
+      "home_score": null,
+      "away_score": null,
+      "home": "CSD Macara",
+      "away": "Université catholique d'Equateur",
+      "league": "LigaPro Primera A",
+      "misses": 1
+    },
+    "premierbet:7278775": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Gimnasia Y Esgrima Mendoza",
+      "away": "Talleres de Cordoba",
+      "league": "Ligue Professionelle",
+      "misses": 1
+    },
+    "premierbet:7270023": {
+      "home_score": null,
+      "away_score": null,
+      "home": "CD Palestino",
+      "away": "CD Huachipato",
+      "league": "Primera Division",
+      "misses": 1
+    },
+    "premierbet:7346837": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Pitbulls Santa Barbara FC",
+      "away": "CS Uruguay de Coronado",
+      "league": "Deuxième division, Ouverture",
+      "misses": 1
+    },
+    "premierbet:7266499": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Tauro FC",
+      "away": "Arabe Unido",
+      "league": "Liga Panamena, Tournoi d'ouverture",
+      "misses": 1
+    },
+    "premierbet:7235181": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Club Necaxa",
+      "away": "Club Leon",
+      "league": "Liga MX, Ouverture",
+      "misses": 1
+    },
+    "premierbet:7361527": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Club Santos Laguna",
+      "away": "CF Monterrey",
+      "league": "D1 féminine, Ouverture",
+      "misses": 1
+    },
+    "premierbet:7384553": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Curaçao",
+      "away": "ZWC.Germany",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7384554": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Portugal",
+      "away": "ZWC.Austria",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7384555": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Argentina",
+      "away": "ZWC.Iraq",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7384556": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.France",
+      "away": "ZWC.Mexico",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7384557": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Algeria",
+      "away": "ZWC.Bosnia and Herzegovina",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7384558": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.South Africa",
+      "away": "ZWC.Tunisia",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7281836": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Sporting FC",
+      "away": "CD Escorpiones Belen",
+      "league": "Première division, Ouverture",
+      "misses": 1
+    },
+    "premierbet:7384767": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Colombia",
+      "away": "ZWC.Panama",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7384768": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.South Africa",
+      "away": "ZWC.England",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7384769": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Iraq",
+      "away": "ZWC.Austria",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7384770": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Congo DR",
+      "away": "ZWC.Brazil",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7235182": {
+      "home_score": null,
+      "away_score": null,
+      "home": "CF Pachuca",
+      "away": "Puebla FC",
+      "league": "Liga MX, Ouverture",
+      "misses": 1
+    },
+    "premierbet:7384978": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Croatia",
+      "away": "ZWC.United States",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7384979": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Egypt",
+      "away": "ZWC.South Korea",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7384980": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Japan",
+      "away": "ZWC.Uruguay",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7384981": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Uzbekistan",
+      "away": "ZWC.Switzerland",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7384982": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Ghana",
+      "away": "ZWC.Cape Verde",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7385478": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZTurbo.Leeds",
+      "away": "ZTurbo.Bournemouth",
+      "league": "Premier Turbo",
+      "misses": 1
+    },
+    "premierbet:7385479": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZTurbo.Liverpool",
+      "away": "ZTurbo.Man United",
+      "league": "Premier Turbo",
+      "misses": 1
+    },
+    "premierbet:7385480": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZTurbo.Sunderland",
+      "away": "ZTurbo.Tottenham",
+      "league": "Premier Turbo",
+      "misses": 1
+    },
+    "premierbet:7385481": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZTurbo.Newcastle Utd",
+      "away": "ZTurbo.Brighton",
+      "league": "Premier Turbo",
+      "misses": 1
+    },
+    "premierbet:7385482": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZTurbo.Arsenal",
+      "away": "ZTurbo.Fulham",
+      "league": "Premier Turbo",
+      "misses": 1
+    },
+    "premierbet:7385183": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Iran",
+      "away": "ZWC.Portugal",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7385182": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Switzerland",
+      "away": "ZWC.Croatia",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7385181": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.New Zealand",
+      "away": "ZWC.Argentina",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7385179": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Czech Republic",
+      "away": "ZWC.Iraq",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7385180": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Mexico",
+      "away": "ZWC.Austria",
+      "league": "World Cup",
+      "misses": 1
+    },
+    "premierbet:7376008": {
+      "home_score": null,
+      "away_score": null,
+      "home": "FC St. Gallen",
+      "away": "AC Taverne",
+      "league": "Erste Liga",
+      "misses": 1
+    },
+    "premierbet:7370122": {
+      "home_score": null,
+      "away_score": null,
+      "home": "FK Boukhara",
+      "away": "Neftchi Ferghana",
+      "league": "Superliga",
+      "misses": 1
+    },
+    "premierbet:7105178": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Atlanta United 2",
+      "away": "Chicago Fire FC II",
+      "league": "MLS Next Pro",
+      "misses": 1
+    },
+    "premierbet:7361544": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Drava Ptuj",
+      "away": "NK Zavrc",
+      "league": "Coupe de Slovénie",
+      "misses": 1
+    },
+    "premierbet:7370137": {
+      "home_score": null,
+      "away_score": null,
+      "home": "NK Hajdose",
+      "away": "SD Gerecja Vas",
+      "league": "Coupe de Slovénie",
+      "misses": 1
+    },
+    "premierbet:7370146": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Lasko",
+      "away": "NK Krsko",
+      "league": "Coupe de Slovénie",
+      "misses": 1
+    },
+    "premierbet:7379843": {
+      "home_score": null,
+      "away_score": null,
+      "home": "NK Jesenice",
+      "away": "Triglav Kranj",
+      "league": "Coupe de Slovénie",
+      "misses": 1
+    },
+    "premierbet:7331560": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Vir",
+      "away": "NK Ivancna Gorica",
+      "league": "Coupe de Slovénie",
+      "misses": 1
+    },
+    "premierbet:7370136": {
+      "home_score": null,
+      "away_score": null,
+      "home": "NK Cirkulane",
+      "away": "NK Pragersko",
+      "league": "Coupe de Slovénie",
+      "misses": 1
+    },
+    "premierbet:7381520": {
+      "home_score": null,
+      "away_score": null,
+      "home": "1. FC Heidenheim",
+      "away": "Bayern Munich",
+      "league": "Matchs amicaux, Clubs",
+      "misses": 1
+    },
+    "premierbet:7308383": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Atromitos",
+      "away": "Pas Pyrgos",
+      "league": "Coupe de Grèce",
+      "misses": 1
+    },
+    "premierbet:7266566": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Namungo FC",
+      "away": "Geita Gold FC",
+      "league": "Premier League",
+      "misses": 1
+    },
+    "premierbet:7379885": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Al-Jabalain",
+      "away": "Al-Ittifaq FC",
+      "league": "Coupe du Roi",
+      "misses": 1
+    },
+    "premierbet:7342430": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Al-Akhdoud Club",
+      "away": "Al-Khaleej Club",
+      "league": "Coupe du Roi",
+      "misses": 1
+    },
+    "premierbet:7361534": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Unionistas de Salamanca CF",
+      "away": "AD Alcorcon",
+      "league": "Matchs amicaux, Clubs",
+      "misses": 1
+    },
+    "premierbet:7370133": {
+      "home_score": null,
+      "away_score": null,
+      "home": "SC Spelle-Venhaus",
+      "away": "VfL 1899 Osnabruck",
+      "league": "Matchs amicaux, Clubs",
+      "misses": 1
+    },
+    "premierbet:7379845": {
+      "home_score": null,
+      "away_score": null,
+      "home": "UD Mutilvera",
+      "away": "Pena Sport FC",
+      "league": "Matchs amicaux, Clubs",
+      "misses": 1
+    },
+    "premierbet:7361535": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Sporting Gijon B",
+      "away": "UD Llanera",
+      "league": "Matchs amicaux, Clubs",
+      "misses": 1
+    },
+    "premierbet:7357284": {
+      "home_score": null,
+      "away_score": null,
+      "home": "APO Levadiakos FC",
+      "away": "Asteras Tripolis",
+      "league": "Coupe de Grèce",
+      "misses": 1
+    },
+    "premierbet:7384232": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Gd Prudente SP U20",
+      "away": "RB Bragantino SP",
+      "league": "Paulista U20",
+      "misses": 1
+    },
+    "premierbet:7370140": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Deportivo Paraguayo Reserve",
+      "away": "Argentino de Rosario Reserve",
+      "league": "Campeonato de Reserva de Primera Division C",
+      "misses": 1
+    },
+    "premierbet:7304366": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Levski Sofia",
+      "away": "AEK Athènes",
+      "league": "Ligue des Champions UEFA",
+      "misses": 1
+    },
+    "premierbet:7304370": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Dinamo Zagreb",
+      "away": "Viking FK",
+      "league": "Ligue des Champions UEFA",
+      "misses": 1
+    },
+    "premierbet:7304381": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Fenerbahce",
+      "away": "Olympique Lyonnais",
+      "league": "Ligue des Champions UEFA",
+      "misses": 1
+    },
+    "premierbet:7342431": {
+      "home_score": null,
+      "away_score": null,
+      "home": "AL Draih",
+      "away": "Al-Nassr FC",
+      "league": "Coupe du Roi",
+      "misses": 1
+    },
+    "premierbet:7361537": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Cp Villarrobledo",
+      "away": "UD Socuellamos CF",
+      "league": "Matchs amicaux, Clubs",
+      "misses": 1
+    },
+    "premierbet:6951095": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Independiente Rivadavia",
+      "away": "Fluminense FC",
+      "league": "Coupe Libertadores",
+      "misses": 1
+    },
+    "premierbet:7300505": {
+      "home_score": null,
+      "away_score": null,
+      "home": "CD Recoleta",
+      "away": "Boca Juniors",
+      "league": "Coupe Sud-Américaine",
+      "misses": 1
+    },
+    "premierbet:7360141": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Guabira Montero",
+      "away": "FC Universitario de Vinto",
+      "league": "Copa Division Profesional",
+      "misses": 1
+    },
+    "premierbet:7367708": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Mount Pleasant FC",
+      "away": "Cibao FC",
+      "league": "CONCACAF Caribbean Cup",
+      "misses": 1
+    },
+    "premierbet:7321312": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Deportivo Riestra",
+      "away": "Gimnasia La Plata",
+      "league": "Coupe d'Argentine",
+      "misses": 1
+    }
+  },
+  "updated_at": "2026-08-18T23:13:37.538284"
+}

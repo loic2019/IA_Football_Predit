@@ -1,0 +1,143 @@
+{
+  "scraped_at": "2026-07-22T21:12:42.286896",
+  "source": "1xBet",
+  "total": 8,
+  "matches": [
+    {
+      "id": "1xbet_acd841cf0e1887be",
+      "home": "Egnatia",
+      "away": "Celje",
+      "league": "Ligue des champions de l'UEFA",
+      "country": "Europe",
+      "start_time": "2026-07-22T20:00:00",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 1.34,
+          "X": 2.22,
+          "2": 3.23
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:42.278925"
+    },
+    {
+      "id": "1xbet_496fc20809a0bffc",
+      "home": "Spartak Trnava",
+      "away": "CSKA 1948",
+      "league": "Ligue Conférence de l'UEFA",
+      "country": "Europe",
+      "start_time": "2026-07-22T19:30:00",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 1.09,
+          "X": 1.33,
+          "2": 8.27
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:42.278925"
+    },
+    {
+      "id": "1xbet_72d4073f2f6bf8e3",
+      "home": "Zeleznicar Pancevo",
+      "away": "Braga",
+      "league": "Ligue Conférence de l'UEFA",
+      "country": "Europe",
+      "start_time": "2026-07-22T20:00:00",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 1.87,
+          "X": 2.43,
+          "2": 1.92
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:42.278925"
+    },
+    {
+      "id": "1xbet_e0080735f0179ec7",
+      "home": "Rangers",
+      "away": "AS Saint-Etienne",
+      "league": "Matchs amicaux de clubs. Top",
+      "country": "World",
+      "start_time": "2026-07-22T19:45:00",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 1.15,
+          "X": 1.85,
+          "2": 5.04
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:42.278925"
+    },
+    {
+      "id": "1xbet_d789278033385493",
+      "home": "Gil Vicente",
+      "away": "Porto",
+      "league": "Matchs amicaux de clubs. Top",
+      "country": "World",
+      "start_time": "2026-07-22T20:00:00",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 1.76,
+          "X": 2.62,
+          "2": 2.0
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:42.278925"
+    },
+    {
+      "id": "1xbet_e206f95a691306d3",
+      "home": "Ténérife",
+      "away": "Getafe",
+      "league": "Matchs amicaux de clubs. Top",
+      "country": "World",
+      "start_time": "2026-07-22T19:30:00",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 1.14,
+          "X": 1.35,
+          "2": 5.44
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:42.278925"
+    },
+    {
+      "id": "1xbet_69a8c52903fef960",
+      "home": "Club Social y Deportivo Macará",
+      "away": "Deportivo Cuenca",
+      "league": "Championnat d'Équateur",
+      "country": "Ecuador",
+      "start_time": "2026-07-22T20:00:00",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 1.01,
+          "X": 4.36,
+          "2": 12.3
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:42.278925"
+    },
+    {
+      "id": "1xbet_92edcc9f62f0fb74",
+      "home": "Queen of the South",
+      "away": "Aberdeen FC",
+      "league": "Coupe de la Ligue écossaise",
+      "country": "Scotland",
+      "start_time": "2026-07-22T19:45:00",
+      "is_live": false,
+      "markets": {
+        "Resultat du match": {
+          "1": 1.87,
+          "X": 2.18,
+          "2": 1.88
+        }
+      },
+      "scraped_at": "2026-07-22T21:12:42.279916"
+    }
+  ]
+}

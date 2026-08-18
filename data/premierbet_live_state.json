@@ -1,0 +1,40 @@
+{
+  "live_ids": {
+    "premierbet:7135081": {
+      "home_score": null,
+      "away_score": null,
+      "home": "Defensa y Justicia",
+      "away": "CA Aldosivi",
+      "league": "Ligue Professionelle"
+    },
+    "premierbet:7230434": {
+      "home_score": null,
+      "away_score": null,
+      "home": "CS Herediano",
+      "away": "Puntarenas FC",
+      "league": "Première division, Ouverture"
+    },
+    "premierbet:7222703": {
+      "home_score": null,
+      "away_score": null,
+      "home": "CD Olimpia",
+      "away": "FC Motagua",
+      "league": "Super Cup"
+    },
+    "premierbet:7247384": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Ecuador",
+      "away": "ZWC.Portugal",
+      "league": "World Cup"
+    },
+    "premierbet:7247385": {
+      "home_score": null,
+      "away_score": null,
+      "home": "ZWC.Argentina",
+      "away": "ZWC.Canada",
+      "league": "World Cup"
+    }
+  },
+  "updated_at": "2026-07-24T03:31:46.597164"
+}
